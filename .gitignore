@@ -1,6 +1,6 @@
 .vscode
 .idea/
-
+.venv
 # Logs
 logs
 *.log
